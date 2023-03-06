@@ -6,7 +6,7 @@ I created this character and animation using mixamo and I got the 3d models from
 
 This file is larger than 25 MB. So I archived this file into 2 parts. 
 
-#To use this:
+To use this:
 
 1. Download all the files.
 2. Unzip it.
