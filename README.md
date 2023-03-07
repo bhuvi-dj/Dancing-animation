@@ -8,6 +8,6 @@ This file is larger than 25 MB. So I archived this file into 2 parts.
 
 To use this:
 
-1. Download all the files.
+1. Go to codes and Download all the files.
 2. Unzip it.
 3. And then Unzip the Main zip file
